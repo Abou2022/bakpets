@@ -1,0 +1,14 @@
+1. Create new repository from github copy and clone with git bash
+2. Open (VScode) 
+3. Create db folder => create schema file (DROP DATABASE... CREATE DATABASE...)
+4. Run the schema file in the terminal
+5. Go back to the to the git bash to install all component you need by (see next line)
+6. npm init => npm i express => npm i sequelize => npm i mysql2 => npm i dotenv
+7. Create sever.js file and call (express, sequelize, route, app express, PORT (localhost or use to the browser)
+mildware, tuen routes expression, and turn on connection to db and server)
+8.Create config folder and 
+9. (inside  config folder) create connection file
+10. (most the time you can copy that from another folder because it is most the time same)
+11. Create .env (already install line 6) inside the principal folder (bakpets)
+12. Create the Routes folder and inside create index file
+13. We can run to see if the server can connected

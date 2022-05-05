@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS bak_pet_db;
+
+CREATE DATABASE bak_pet_db ;
